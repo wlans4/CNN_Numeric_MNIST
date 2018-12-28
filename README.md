@@ -7,7 +7,7 @@ conda create -n new environment --file webcam_cnn_req.txt
 
 PURPOSE: ###############
 
-This project will act as a foundational reference in more complex projects. It is a naive introduction into using neural networks, even more so convolutional networks. It is also the first time I have used any computer vision tools, such as openCV. My most important goal with this project was to fully understand what was happening with each and every function call and parameter.
+This project will act as a foundational reference in more complex projects. It is a naive introduction into using neural networks, even more so convolutional networks. It is also the first time I have used any computer vision tools, such as openCV. I used the MNIST data set as it was rather easy to work with, which allowed me to focus more on why each algorithm or function should be used.
 
 RESULTS: ###############
 
